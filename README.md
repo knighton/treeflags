@@ -2,7 +2,7 @@
 
 ### 1. Overview
 
-- Treeflags is an extremely simple wrapper over python argparse.
+- Treeflags is a fanatically simple wrapper over python argparse.
 
 - Bare minimum of features, with minimal boilerplate -- cleaner and faster?
 
